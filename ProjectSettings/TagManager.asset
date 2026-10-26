@@ -44,7 +44,7 @@ TagManager:
   - name: backround
     uniqueID: 3021366063
     locked: 0
-  - name: New Layer 2
+  - name: player
     uniqueID: 3332902305
     locked: 0
   m_RenderingLayers:

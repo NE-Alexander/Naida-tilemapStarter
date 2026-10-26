@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - backround
   - Water
   - UI
   - Player
@@ -40,6 +40,12 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: backround
+    uniqueID: 3021366063
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 3332902305
     locked: 0
   m_RenderingLayers:
   - Default
